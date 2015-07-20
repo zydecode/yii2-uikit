@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/uikit": "2.11.*"
+        "bower-asset/uikit": "2.18.*"
     },
     "conflict": {
         "artkost/yii2-uikit": "*",

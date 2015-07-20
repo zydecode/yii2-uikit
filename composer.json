@@ -4,7 +4,6 @@
     "keywords": ["yii", "uikit"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause"
-    ],
     "require": {
         "yiisoft/yii2": "*",
         "bower-asset/uikit": "2.11.*"

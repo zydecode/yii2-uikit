@@ -1,6 +1,6 @@
 {
     "name": "zydecode/yii2-uikit",
-    "description": "The UIkit front-end framework extension for the Yii framework",
+    "description": "a project-specific fork of intelligent/yii2-uikit. Not intended for public distribution",
     "keywords": ["yii", "uikit"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",

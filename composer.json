@@ -4,11 +4,6 @@
     "keywords": ["yii", "uikit"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "Sean Carnell",
-            "email": "sean.carnell@gmail.com"
-        }
     ],
     "require": {
         "yiisoft/yii2": "*",

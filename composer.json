@@ -3,7 +3,7 @@
     "description": "The UIkit front-end framework extension for the Yii framework",
     "keywords": ["yii", "uikit"],
     "type": "yii2-extension",
-    "license": "BSD-3-Clause",
+    "license": "BSD-3-Clause"
     ],
     "require": {
         "yiisoft/yii2": "*",

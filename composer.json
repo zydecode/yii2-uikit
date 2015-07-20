@@ -10,7 +10,7 @@
     },
     "conflict": {
         "artkost/yii2-uikit": "*",
-		"intelligent/yii2-uikit" : "*",
+	"intelligent/yii2-uikit" : "*",
         "demogorgorn/yii2-uikit-x" : "*"
     },
     "autoload": {

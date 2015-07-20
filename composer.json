@@ -1,0 +1,25 @@
+{
+    "name": "zydecode/yii2-uikit",
+    "description": "The UIkit front-end framework extension for the Yii framework",
+    "keywords": ["yii", "uikit"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Sean Carnell",
+            "email": "sean.carnell@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/uikit": "2.11.*"
+    },
+    "conflict": {
+        "artkost/yii2-uikit": "*",
+		"intelligent/yii2-uikit" : "*",
+        "demogorgorn/yii2-uikit-x" : "*"
+    },
+    "autoload": {
+        "psr-4": { "zydecode\\uikit\\": "" }
+    }
+}
